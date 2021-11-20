@@ -12,10 +12,7 @@ import matplotlib.pyplot as plt
 import matplotlib.mlab as mlab
 from scipy.stats import norm
 import math
-# Data= pd.read_csv(r"./A2021001032500.L2_LAC_OC.nc", encoding="ISO-8859-1")
-# data1=Data[Data['happen year']<2021]
-# # data1=data1[data1['happen month']==1]
-# data1.drop_duplicates(subset=['SID'],keep='first',inplace=True)
+
 
 
 # # tem=np.zeros(80,dtype=int)
