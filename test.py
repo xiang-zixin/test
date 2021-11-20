@@ -8,7 +8,7 @@ Created on Thu Nov 18 16:49:43 2021
 import pandas as pd
 import numpy as np
 from netCDF4 import Dataset
-import matplotlib.pyplot as plt
+
 import matplotlib.mlab as mlab
 from scipy.stats import norm
 import math
